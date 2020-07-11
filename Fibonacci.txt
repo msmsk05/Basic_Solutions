@@ -1,7 +1,6 @@
 fibonacci = []
 number1 = 0
 number2 = 1
-count = 0
 while True:
     fibonacci.append(number2)
     num = number1 + number2
